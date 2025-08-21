@@ -892,6 +892,11 @@ button.dim:active:before {
 
 .author-info {
   text-align: center;
+  color: #5e5d5d;
+  font-size: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 15px 5;
 }
 
 .dd-item > button {
@@ -1000,12 +1005,6 @@ label.error {
   width: 100%;
 }
 
-.author-info {
-  color: #676a6c;
-  font-size: 11px;
-  margin-top: 5px;
-}
-
 .vertical-container {
   width: 90%;
   max-width: 1170px;
@@ -1108,7 +1107,9 @@ label.error {
     left: 50%;
     margin-left: -25px;
     -webkit-transform: translateZ(0);
+    transform: translateZ(0);
     -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
     font-size: 19px;
     i {
       margin-left: -12px;
@@ -1409,7 +1410,6 @@ code {
     margin: 0 0 7px;
     padding: 0;
     text-overflow: ellipsis;
-    float: left;
   }
   .label {
     float: left;
@@ -2373,7 +2373,7 @@ body {
     }
   }
   section p {
-    color: #aeaeae;
+    color: #535353;
     font-size: 13px;
   }
   h1 {

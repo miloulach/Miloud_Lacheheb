@@ -1,8 +1,4 @@
 # links section data
-- last_name: ORCID
-  first_name:
-  desc: ORCID Connecting Research and Researchers
-  website: https://orcid.org/0000-0002-6672-1754
 
 - last_name: Me on HSE website
   #first_name: 
@@ -15,7 +11,12 @@
   website: https://scholar.google.com/citations?user=gZ7PhAUAAAAJ&hl=en&oi=sra
   #email: coo@google.com
 
+- last_name: ORCID
+  first_name:
+  desc: ORCID Connecting Research and Researchers
+  website: https://orcid.org/0000-0002-6672-1754
+
 - last_name: Victoria University of Wellington
   #first_name: 
   desc: Profile
-  website: https://www.wgtn.ac.nz/cedcc/our-people/miloud-lacheheb
+  website: https://www.wgtn.ac.nz/cedcc/our-people

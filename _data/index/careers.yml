@@ -7,10 +7,10 @@
     detail: PhD in Economics
     i18n: company_a_desc
   date:
-    detail: December. 2024
+    detail: July 2025
     i18n: company_a_date
   job:
-    detail: Essays on climate change and extreme weather events
+    detail: Essays on Extreme Weather and the Economics of Fisheries
     i18n: company_a_job
   icon: fa-plus-square
   present: true
@@ -22,7 +22,7 @@
     detail: Consultant
     i18n: company_a_desc
   date:
-    detail: Since Spetember. 2023
+    detail: Since Spetember 2023
     i18n: company_a_date
   job:
     detail: Extreme weather events and economic impacts
