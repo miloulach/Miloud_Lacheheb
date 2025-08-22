@@ -25,7 +25,7 @@
     detail: Since Spetember 2023
     i18n: company_a_date
   job:
-    detail: Extreme weather events and economic impacts
+    detail: The Impact of Tropical Cyclone on Fishing Activities in the Philippines
     i18n: company_a_job
   icon: fa-plus-square
   present: true
@@ -48,7 +48,7 @@
     detail: University Kasdi Merbah (Algeria) 
     i18n: company_b
   desc:
-    detail: English tutor at the faculty of economics and management
+    detail: Tutor at the faculty of economics and management
     i18n: company_b_desc
   date:
     detail: June 2018

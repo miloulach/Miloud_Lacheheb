@@ -428,17 +428,17 @@ button.dim {
   &:active {
     background-color: #1a7bb9;
     border-color: #1a7bb9;
-    color: #FFF;
+    color: #0a0909;
     &:focus, &:hover {
       background-color: #1a7bb9;
       border-color: #1a7bb9;
-      color: #FFF;
+      color: #111010;
     }
   }
   &:focus, &:hover {
     background-color: #1a7bb9;
     border-color: #1a7bb9;
-    color: #FFF;
+    color: #131212;
   }
   &.active[disabled] {
     background-color: #1f90d8;
@@ -2012,7 +2012,7 @@ body {
     display: none;
   }
   &.landing-page {
-    color: #676a6c;
+    color: #545556;
     font-family: 'Open Sans', helvetica, arial, sans-serif;
     background-color: #fff;
   }
